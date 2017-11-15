@@ -26,6 +26,6 @@
   "homepage": "https://github.com/christopherwk210/quoia#readme",
   "engineStrict": true,
   "engines": {
-    "node": ">= 8.0"
+    "node": ">= 8.5"
   }
 }
