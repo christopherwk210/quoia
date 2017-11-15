@@ -1,12 +1,11 @@
 {
   "name": "quoia",
   "version": "1.0.0",
-  "description": "",
+  "description": "A no dependencies build system for static websites.",
   "main": "./lib/quoia.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "types": "./lib/quoia.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/christopherwk210/quoia.git"
