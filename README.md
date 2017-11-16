@@ -14,4 +14,4 @@ You create separate components with all of the HTML, JS, and CSS that you're use
 Coming soon!
 
 ## License
-[MIT](https://opensource.org/licenses/MIT) Copyright©️ 2017 - Present, Chris Anselmo
+[MIT](https://opensource.org/licenses/MIT) Copyright© 2017 - Present, Chris Anselmo
