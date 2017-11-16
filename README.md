@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/quoia.png" alt="site-scan easily takes screenshots of websites">
 </p>
-<h2 align="center">Quoia</h2>
+<h3 align="center">Quoia</h3>
 <p align="center">A no-dependencies build system for static websites.</p>
 
 ## Intro
