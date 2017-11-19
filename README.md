@@ -5,10 +5,7 @@
 <p align="center">A no-dependencies build system for static websites.</p>
 
 ## Intro
-Quoia is a framework/build system written in Node for generating static websites. It has **zero dependencies** and is built to be flexible. It borrows a few ideas from modern front-end frameworks, but generates a completely static site ready to be served, without the need for external dependencies being loaded.
-
-## Overview
-You create separate components with all of the HTML, JS, and CSS that you're used to. Then you point Quoia at your components, and it will compile them all together into one tidy package, ready to serve.
+Quoia is a framework/build system written in Node for generating static websites. It has **zero dependencies** and is built to be flexible. It borrows a few ideas from modern front-end frameworks, but generates a completely static site ready to be served, without the need for extra external dependencies being loaded.
 
 ## Documentation
 Coming soon!
