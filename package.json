@@ -1,6 +1,6 @@
 {
   "name": "quoia",
-  "version": "1.4.19",
+  "version": "1.4.20",
   "description": "A no dependencies build system for static websites.",
   "main": "./lib/quoia.js",
   "scripts": {
