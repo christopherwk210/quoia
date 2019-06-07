@@ -11,6 +11,6 @@ Quoia is a framework/build system written in Node for generating static websites
 You can view the documentaion [here](https://christopherwk210.github.io/quoia-documentation/)!
 
 ## License
-[MIT](https://opensource.org/licenses/MIT) Copyright© 2017 - Present, Chris Anselmo
+[MIT](https://opensource.org/licenses/MIT)
 
 Quoia logo created by [this guy](https://twitter.com/i_am_thirteen).
